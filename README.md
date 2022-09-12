@@ -1,5 +1,7 @@
 # SocialBook.iml
-Group Project 1_Social Network on Mental Health
+Social Network on Mental Health
+
+Link to website: https://riczfe.github.io/SocialBook.iml/
 
 This project includes several functions:
 
